@@ -1,0 +1,14 @@
+body{
+   margin: 0;
+   padding: 0;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.game{
+   color: #28B463;
+}
+
+.life{
+   font-family: 'Pacifico', cursive;
+   color: #A93226;
+}
